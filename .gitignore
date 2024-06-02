@@ -1,0 +1,19 @@
+# Ignore the build directory
+/build/
+
+.devcontainer/
+
+.vscode/
+
+# Ignore compiled files
+*.o
+*.obj
+*.class
+*.pyc
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.bak
